@@ -1,0 +1,8 @@
+numpy (np): Handles arrays for pixel manipulation.
+PIL.Image: Used for opening and manipulating image files.
+matplotlib.pyplot: For displaying the images.
+mpimg: Loads the images for display.
+import os: Allows interaction with the operating system for file handling, checking file existence, and working with file paths. It's useful in file management tasks.
+with file paths. It's useful in file management tasks.
+%matplotlib inline: Ensures that plots generated with matplotlib are displayed inline within a Jupyter notebook making the output directly visible below the code cells.
+sklearn: For importing kmeans
